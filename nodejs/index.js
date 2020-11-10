@@ -24,7 +24,7 @@ const server = http.createServer(function(req, res) {
     else if (req.url == "/data"){
         res.writeHead(200, { "Content-Type": "text/html"});
         const person = require('./module/data/data.js');
-        res.write(JSON.stringify(person));
+        res.write('<html><body>' + JSON.stringify(person) + '</body></html>');
 
         res.end();
     }

@@ -8,5 +8,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="nodejs" />
+    <orderEntry type="module" module-name="nodejs" />
   </component>
 </module>
