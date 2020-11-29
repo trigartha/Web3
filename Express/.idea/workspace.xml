@@ -20,9 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e6b3ec6-2a33-463f-8cf9-09d82b0494a8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/Web3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/Web3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IlkeRaeymaekers_Opdrach4t.zip" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +61,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Triga\Documents\GitHub\Web3\Web3\Express" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -70,7 +75,8 @@
       <option name="presentableId" value="Default" />
       <updated>1605788852720</updated>
       <workItem from="1605788853818" duration="12045000" />
-      <workItem from="1605801507781" duration="912000" />
+      <workItem from="1605801507781" duration="3760000" />
+      <workItem from="1606666497666" duration="6653000" />
     </task>
     <servers />
   </component>
@@ -87,6 +93,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="654" y="152" width="581" height="780" key="find.popup" timestamp="1605800682818">
